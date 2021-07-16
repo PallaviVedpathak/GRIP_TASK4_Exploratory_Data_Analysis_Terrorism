@@ -14,6 +14,6 @@ Links:
 
 a.Youtube:
 
-b.Github:
+b.Github: https://github.com/PallaviVedpathak/GRIP_TASK4_Exploratory_Data_Analysis_Terrorism
 
 c.Dataset: https://bit.ly/2TK5Xn5
